@@ -1,0 +1,40 @@
+#define FreeSpace 0x1000000
+#define EndSpace 0xefb2e0
+#define FreeSpaceBLRange 0x1c1ec0
+#define ChapterTileset(chapter, object, palette, config) "PUSH; ORG 0x8b0890 + (148* chapter) + 4; SHORT object; BYTE palette config; POP"
+#define ChapterTileAnims(chapter, anim1, anim2) "PUSH; ORG 0x8b0890 + (148* chapter) + 9; BYTE anim1 anim2; POP"
+
+#ifndef ItemTable
+  #define ItemTable 0x809B10
+#endif
+
+#ifndef DebuffTable
+  #define DebuffTable     0x0203F2D0 
+  #define DebuffTableSize 0x00000440
+#endif
+
+#ifndef ChapterDataTable
+  #define ChapterDataTable 0x8B0890
+  #define ChapterDataTableEntSize 148
+#endif
+
+#define LunarBrace MoonBracelet
+#define SolarBrace SunBracelet
+
+// Attribute for defining items with passive stat bonuses
+#define PASSIVE_ITEM_BOOSTS_ATTR 0x00800000
+
+//item ID for skill scroll
+#define SkillScroll 0xBC
+
+#include "EngineHacks/SkillSystem/skill_definitions.event"
+
+//JumpToHack (from Pik)
+#define jumpToHack_r0(offset) "SHORT 0x4800 0x4700 ; POIN (offset|1)"
+#define jumpToHack_r1(offset) "SHORT 0x4900 0x4708 ; POIN (offset|1)"
+#define jumpToHack_r2(offset) "SHORT 0x4A00 0x4710 ; POIN (offset|1)"
+#define jumpToHack_r3(offset) "SHORT 0x4B00 0x4718 ; POIN (offset|1)"
+
+#define __DEBUG__ // Uncomment to get the Debug startup menu :p
+
+#define USE_FATIGUE
