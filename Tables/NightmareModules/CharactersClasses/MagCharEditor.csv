@@ -1,0 +1,259 @@
+INLINE MagCharTable,Base Magic,Magic Growth
+0x0,0,0
+0x01 Cleo,0,30
+0x02 Mira,0,5
+0x03 Iskra,2,45
+0x04 Emil,0,5
+0x05 Svetomir,1,30
+0x06 Alena,1,10
+0x07 Varga,0,2
+0x08 Delilah,3,30
+0x09 Alex,0,10
+0x0A Axel,0,10
+0x0B Filone,1,20
+0x0C Zwieback,0,5
+0x0D Leina,(-2),5
+0x0E Cromar,-1,35
+0x0F Loewe,1,10
+0x10 Longxia,3,35
+0x11 Fangai,5,35
+0x12 Gimm,1,15
+0x13 Tobie,1,10
+0x14 Awa,0,5
+0x15 Cadenza,3,30
+0x16 Faolan,0,5
+0x17 Iberis,3,30
+0x18 Buldak,0,5
+0x19 Nora,2,5
+0x1A Hans,5,50
+0x1B Empty,0,5
+0x1C Jenny,0,50
+0x1D Meldan,3,35
+0x1E Valse,2,10
+0x1F Hornet,6,50
+0x20 Milo,2,25
+0x21 Ichwep,3,30
+0x22 Mink,1,20
+0x23 Tiberius,2,15
+0x24 Ellerey,2,5
+0x25 Mantou,0,1
+0x26 Tippany,0,0
+0x27 Pelecaye,4,35
+0x28 Carl,3,15
+0x29 Darby,0,0
+0x2A Jacinth,3,30
+0x2B Nahiza,2,5
+0x2C Augur,(-2),50
+0x2D Coralia,3,60
+FakeEirika,2,10
+0x2E Rashid,0,5
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+#NAME?,0,0
+#NAME?,0,0
+#NAME?,0,0
+#NAME?,0,0
+#NAME?,0,0
+#NAME?,0,0
+#NAME?,0,0
+#NAME?,0,0
+Lyon's Summon,0,0
+#NAME?,0,0
+#NAME?,0,0
+Knoll's Summon,0,0
+Ewan's Summon,0,0
+Lyon,0,0
+Boro (Ch1),0,0
+0x43 Tyr (Ch 15),0,0
+Valter (Ch 15),3,10
+0x45 Aurora,2,55
+Valter (Prologue),10,40
+Breguet (Ch 1),2,5
+Bone (Ch 2),0,5
+0x48 Cidor (Ch10),3,5
+0x49 Johanna (Ch10,0,10
+0x4A Elias (Ch10),13,5
+Novala (Ch 6),8,5
+Murray (Ch 7),8,50
+Tirado (Ch 8),2,5
+Binks (Ch 9A),3,15
+Pablo (Ch 10A),2,10
+Maelduin (Ch 12A),8,50
+Aias (Ch 13A),2,10
+Carlyle (Ch 14A),2,5
+Caellach (Ch 15),5,30
+Pablo (Ch 13A),3,5
+0,8,50
+Gorgon (Ch 18),0,0
+Riev (Ch 19 +ACY- 20),10,65
+0,10,45
+0,0,0
+Gheb (Ch 9B),0,0
+Beran (Ch 10B),2,5
+Cyclops (Ch 12B),3,15
+Wight (Ch 11A),2,5
+Deathgoyle (Ch 11B),2,5
+Entombed (Monster Boss),3,5
+0,3,5
+0,0,0
+0,0,0
+#NAME?,0,0
+0x65 Kwame,0,0
+0x66 Lyuban,0,10
+Brigand,0,0
+0x68 Emory,0,0
+O'Neill (Prologue),0,0
+Glen (Cutscene),0,5
+Zonta (Ch 5x),0,0
+Vigarde (Ch 14B),1,5
+Lyon (Ch Final),5,15
+0x6E Selese,0,0
+0x6F Senny,0,0
+0x70 Helman,0,0
+0x71 Dragana,0,0
+0x72 Hernandez,0,0
+0x73 - Selese,0,0
+0x74 Veid,0,0
+0x75 Barod,0,0
+0x76 McCallum,0,0
+0x77 Gladiator,2,15
+0x78 Zeus,2,20
+0x79 Citizen,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+Grado Soldier (Special),0,0
+Grado Soldier 1 (Normal),0,0
+0x82 Miltia,0,0
+0x83 Yor,0,0
+0x84 Radnitz,0,0
+0x85 Mifan,0,0
+0x86 Wellworth,0,0
+0x87 Epony,0,0
+0x88 Freyse,0,0
+Grado Soldier 9,0,0
+Grado Soldier 10 (Duessel's),0,0
+Grado Soldier 11 (Duessel's),0,0
+Grado Soldier 12 (Duessel's),0,0
+Grado Soldier 13,0,0
+Grado Remnant 1 (Main),0,0
+Cutthroat,0,0
+Grado Remnant 2 (Cutscene and C16 only?),0,0
+Grado Remnant 3 (C16 only?),0,0
+Grado Remnant 4 (C16 only?),0,0
+Wraith (Sage),0,0
+Wraith (Swords),0,0
+0x95 The Giant,0,0
+0x96 Hege,0,0
+0x97 Francis,0,0
+0,0,0
+0,0,0
+0x9A Veniamin,0,0
+0x9B Corundum,0,0
+0x9C Pascal,0,0
+0x9D Kailani,3,100
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+Reinforcement (Chapter 3),4,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+Mercenary (C9A),0,0
+Mercenary (C10A),0,0
+Merc Remnant (C13A),0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Monster,0,0
+Demon King,0,0
+0,0,0
+Frelian,0,0
+Frelian,0,0
+0,0,0
+0,0,0
+0,0,0
+Fado (Renais),0,0
+0,0,0
+Hayden (Frelia),0,0
+Mansel (Rausten),0,0
+Klimt (Carcino),0,0
+Dara (Caer Pelyn),0,0
+Ismaire (Jehanna),0,0
+Pegasus Messenger,0,0
+Rausten Knight,0,0
+Rausten Knight,0,0
+(Untested Beyond this point),0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+0,0,0

@@ -1,0 +1,370 @@
+## KingSwordDesc
+Doubles attacks grants Charisma.[X]
+
+## FlameSwordDesc
+Casts magical flame. Mag +5.[X]
+
+## ParagonSwordDesc
+Doubles EXP gained. Def +5.[X]
+
+## ThunderSwordDesc
+Casts magical thunder. Skl +5.[X]
+
+## WindSwordDesc
+Casts magical wind. Spd +5.[X]
+
+## SleepSwordDesc
+Puts enemies to sleep if it hits.[X]
+
+## BerserkSwordDesc
+Drives enemies mad if it hits.[X]
+
+## WindName
+Wind[X]
+
+## BlizzardDesc
+Long-range storm. Puts enemy to sleep.[X]
+
+## FenrirDesc
+Casts long-range shadows.[X]
+
+## HelName
+Hel[X]
+
+## MeteorName
+Meteor[X]
+
+## MeteorDesc
+Casts long-range flames.[X]
+
+## ShortSwordName
+Short Sword[X]
+
+## GaleBowName
+Gale Bow[X]
+
+## GaleBowDesc
+Long-range magic bow of the winds.[X]
+
+## SlimAxeName
+Slim Axe[X]
+
+## SlimAxeDesc
+A lightweight axe.[X]
+
+## ClaymoreName
+Claymore[X]
+
+## ClaymoreDesc
+A high quality blade. Eff vs Cavalry[X]
+
+## MarksmanBowName
+[_M][_a][_r][_k][_s][_m][_a][_n][_sp][_B][_o][_w][X]
+
+## MarksmanBowDesc
+A bow with exceptional range.[X]
+
+## BeiyrScrollName
+Beiyr Scroll[X]
+
+## BeiyrScrollDesc
++10% Str +10% Skl +10% Lck.[X]
+
+## TemperedName
+[_T][_e]m[_p][_e][_r][_e][_d][_sp][_R]i[_n][_g][X]
+
+## TemperedDesc
+A ring that lets its wearer[N]
+restore 4 HP after combat.[X]
+
+## SlimArchName
+Slim Arch[X]
+
+## BlankDesc
+[X]
+
+## DullahanName
+Dullahan[X]
+
+## DullahanDesc
+[LockIcon][_C][_r][_o][_m][_a][_r][_.][_SP][_R][_e][_v][_i][_v][_e][_s][_SP][_u][_s][_e][_r][_SP][_u][_p][_o][_n][_SP][_d][_e][_f][_e][_a][_t][_.][X]
+
+## CounterBowName
+Counter Bow[X]
+
+## CounterBowDesc
+Reflects melee damage.[X]
+
+## BurnName
+Burn[X]
+
+## BurnDesc
+[_E][_f][_f][_e][_c][_t][_i][_v][_e][_SP][_a][_g][_a][_i][_n][_s][_t][_SP][_e][_n][_e][_m][_i][_e][_s][_SP][_o][_n][_SP][_t][_e][_r][_r][_a][_i][_n][_.][X]
+
+## ConversionName
+Conversion[X]
+
+## ConversionDesc
+[_S][_w][_a][_p][_SP][_H][_P][_SP][_a][_g][_a][_i][_n][_s][_t][_SP][_h][_i][_g][_h][_e][_r][_SP][_H][_P][_SP][_t][_a][_r][_g][_e][_t][_s][_SP][_b][_e][_f][_o][_r][_e][_SP][_d][_a][_m][_a][_g][_e][_.][X]
+
+## RitualKnifeName
+Ritual Knife[X]
+
+## RitualKnifeDesc
+[_R][_e][_s][_t][_o][_r][_e][_SP][_H][_P][_SP][_e][_q][_u][_a][_l][_SP][_t][_o][_SP][_d][_a][_m][_a][_g][_e][_SP][_d][_e][_a][_l][_t][_.][X]
+
+## BrenthunderName
+Brenthunder[X]
+
+## BrenthunderDesc
+Brave Effect.[X]
+
+## SpellMirrorName
+Spell Mirror[X]
+
+## SpellMirrorDesc
+[_R][_e][_f][_l][_e][_c][_t][_s][_SP][_M][_t][_SP][_o][_f][_SP][_m][_a][_g][_i][_c][_a][_l][_SP][_a][_t][_t][_a][_c][_k][_s][_.][X]
+
+## AlairsGaleName
+Arai's Gale[X]
+
+## AlairsGaleDesc
+[_H][_a][_l][_f][_SP][_t][_h][_e][_SP][_p][_o][_w][_e][_r][_,][_SP][_h][_a][_l][_f][_SP][_t][_h][_e][_SP][_p][_r][_i][_c][_e][_.][X]
+
+## SisterRingName
+Sister Ring[X]
+
+## SisterRingDesc
+[_+][_1][_SP][_M][_o][_v][_e][_SP][_a][_l][_l][_o][_w][_SP][_a][_c][_c][_e][_s][_s][_SP][_t][_o][_SP][_a][_n][_SP][_a][_n][_c][_i][_e][_n][_t][_SP][_p][_o][_w][_e][_r][_.][X]
+
+## CivilianProofName
+[_C][_i][_v][_i][_l][_i][_a][_n][_SP][_P][_r][_o][_o][_f][X]
+
+## CivilianProofDesc
+Holder cannot enter combat.[X]
+
+## ArachnidName
+Arachnid[X]
+
+## ArachnidDesc
+Brave Effect.[X]
+
+## HurlbatName
+Hurlbat[X]
+
+## TridentName
+Trident[X]
+
+## TridentDesc
+[_G][_o][_o][_d][_SP][_f][_o][_r][_SP][_f][_i][_s][_h][_i][_n][_g][_,][_SP][_q][_u][_e][_s][_t][_i][_o][_n][_a][_b][_l][_e][_SP][_f][_o][_r][_SP][_c][_o][_m][_b][_a][_t][_.][X]
+
+
+## AzuriumScepterName
+[_A][_z][_u][_e][_r][_i][_u][_m][_SP][_S][_c][_e][_p][_t][_e][_r][X]
+
+
+## AzuriumScepterDesc
+Restore life to all units on the map.[X]
+
+## DevilDaggerName ^
+Devil's Dagger[X]
+
+## DevilDaggerDesc
+Ignores Mish's Atk and enemy Def. Devil.[X]
+
+## BalladOfWarName ^
+Ballad of War[X]
+
+## BalladOfWarDesc
+Grants Charisma.[X]
+
+## YorsYariName
+Yor's Yari[X]
+
+## YorsYariDesc
+Ignores Defence.[X]
+
+## DaShootaName
+Break Arc[X]
+
+## DaShootaDesc
+Effective vs horses and armors.[X]
+
+## BigIronName
+Meat Cleaver[X]
+
+## Axle1Name
+Axle[X]
+
+## Axle1Desc
+Uncounterable. Lck +13.  Axel[LockIcon].[X]
+
+## Axle2Desc
+Halves enemy health. Alex[LockIcon].[X]
+
+## MiaodaoName
+Miaodao[X]
+
+## MiaodaoDesc
+Brave.[X]
+
+## ZykhraScrollName
+Zykhra Scroll[X]
+
+## ZykhraScrollDesc
++10% HP, +10% Str, +10% Def,[N]
++10% Bld, -10% Spd[X]
+
+## GrowthScrollName
+Growth Scroll[X]
+
+## GrowthScrollDesc
+Boosts equipped unit's growths.[X]
+
+## StingerName
+Stinger[X]
+
+## StingerDesc
+Spd +5. Hornet[LockIcon][X]
+
+## LunarAxeName
+Lunar Axe[X]
+
+## LunarAxeDesc
+Magic damage.[X]
+
+## StormbrandName
+Stormbrand[X]
+
+## StormbrandDesc
+Brave. Iskra[LockIcon][X]
+
+## BpatItemName
+DUMMY (bpat)[X]
+
+## BpatItemDesc
+Something special :)[X]
+
+## ArgymosCrestName
+Argymos Crest[X]
+
+## ArgymosCrestDesc
+Promotion item for Cleo.[X]
+
+## RaioScrollName
+Raio Scroll[X]
+
+## RaioScrollDesc
++10% Mag, +10% Skl, +20% Spd,[N]
+-15% HP[X]
+
+## LuzenScrollName
+Luzen Scroll[X]
+
+## LuzenScrollDesc
++20% HP, +20% Lck[X]
+
+## DarkbrandName
+Darkbrand[X]
+
+##DarkbrandDesc
+Can be used to buff res. Tiberius[LockIcon][X]
+
+## MuramasaName
+Muramasa[X]
+
+## TheBreakerName
+The Breaker[X]
+
+## TheBreakerDesc
+Effective vs. armors.[X]
+
+## HoundingBowName
+Hounding Bow[X]
+
+## HoundingBowDesc
+Eff. vs [HorseIcon]. Darby[LockIcon][X]
+
+## KingShieldName
+King Shield[X]
+
+## KingShieldDesc
+Provokes enemies in range. Armors only.[X]
+
+## EdgedArrowName
+Edged Arrow[X]
+
+## EdgedArrowDesc
+Pierces enemy defense. Bow users only.[X]
+
+## RedScarfName
+Red Scarf[X]
+
+## RedScarfDesc
+Restores 25% HP after killing an enemy.[X]
+
+## SaunionName
+Saunion[X]
+
+## SaunionDesc
+A lance with extended reach.[X]
+
+## KaiserschwertName
+[_K][_a][_i][_s][_e][_r][_s][_c][_h][_w][_e][_r]t[X]
+
+## KaiserschwertDesc *
+Follow-up attacks consecutive. Eff. vs. blessed.[X]
+
+## TrainedEdgeName
+Trained Edge[X]
+
+## TrainedPikeName
+Trained Pike[X]
+
+## TrainedAxeName
+Trained Axe[X]
+
+## TrainedArcName
+Trained Arc[X]
+
+## AquaBrandName
+Aqua Brand[X]
+
+## AquaBrandDesc
+Varga[LockIcon]. Magic damage. +5 SPD.[X]
+
+## ChargeName
+Charge[X]
+
+## ChargeDesc
+Emil[LockIcon]. Brave.[X]
+
+## PoincareName
+Poincare[X]
+
+## PoincareDesc
+Rashid[LockIcon]. Eff. vs. archer/sniper.[X]
+
+## SinkName
+Sink[X]
+
+## SinkDesc
+Eff. vs. mages and bards.[X]
+
+## WoodlandsHukeName
+[_W][_o][_o][_d][_l][_a][_n][_d][_s] [_H][_u][_k][_e][X]
+
+## WoodlandsHukeDesc
++2 SKL/RES when equipped. +1 Bow Rng.[X]
+
+## CaptainsHelmName
+[_C][_a][_p][_t][_a][_i][_n][_'][_s] [_H][_e][_l][_m][X]
+
+## CaptainsHelmDesc
++1 Str/Mag/Skl/Spd/Def/Res. Equip.[X]
+
+## FealtyBowName
+Fealty Bow[X]
+
+## FealtyBowDesc
+-3 Dmg taken, +15 hit when near Lord.[X]

@@ -1,0 +1,177 @@
+
+# 0x0002 textWeaponRankIncreasedTo
+ Weapon rank increased to [X]
+
+# 0x0094
+HP Bars[.][X]
+
+# 0x00B2
+Set health bar display[X]
+
+#include "CharClassItemsEtc/ItemNamesDescs.txt"
+
+#0x3A LearnedSkillText
+Learned  [X]
+
+#include "statscreen_text.txt"
+
+#include "unitmenu_text.txt"
+
+#0xd4c LikesText
+Likes:[X]
+
+#0xd4d DislikesText
+[0x9E]i[0x90]li[0x8A][0x85][0x90]:[X]
+
+#0xd4e HeightText
+Height:[X]
+
+#0xd4f AgeText
+Age:[X]
+
+## HouseText
+[MidRight][LoadFace][CurrentPortrait]Nothing to see here.[A][X]
+
+## VillageText
+[MidRight][LoadFace][0xFF][0xFF]These look useful.[A][X]
+
+## DV1Desc
+Freeze all enemies[N]
+for one turn[X]
+
+## nameCamus
+Camus[X]
+
+## nameSirius
+Sirius[X]
+
+## nameZeke
+Zeke[X]
+
+## StairsNameText
+ Stairs[X]
+
+## StairsDescText
+Take this staircase to[N]
+the connecting end.[X]
+
+## StairsBlockedText
+The staircase is blocked[N]
+from the other side.[X]
+
+## RaidNameText
+ Raid[X]
+
+## RaidDescText
+Destroy this village[N]
+for items and gold.[X]
+
+## EscapeName
+ Escape[X]
+
+## EscapeDesc
+Have this unit[N]
+leave this chapter.[X]
+
+## EscapeObjectiveDesc
+  Escape with[N]
+Cleo and Loewe[X]
+
+## ArriveName
+ Arrive[X]
+
+## ArriveDesc
+Complete this chapter[N]
+by having this unit arrive.[X]
+
+## SeizeName
+ Seize[X]
+
+## SeizeObjectiveDesc
+  Seize with[N]
+Cleo or Loewe[X]
+
+## LordMustEscapeLastText
+This unit must escape last.[X]
+
+## Mov_Text_ID
+Mov[X]
+
+## UM_GaidenBlackMagic
+ B. Magic[X]
+
+## UM_GaidenWhiteMagic
+ W. Magic[X]
+
+## UM_GaidenMagicDesc
+Spend HP to cast spells[NL]
+this unit has learned.[X]
+
+## GaidenMagicUMErrorText
+You don't have enough HP[NL]
+to cast any spells.[X]
+
+## GaidenMagicSpellMenuErrorText
+You don't have enough HP[NL]
+to cast this spell.[X]
+
+## GaidenMagicHPCostText
+Cost[X]
+
+## PrepScreenUseSkillScroll
+ Skill learned[X]
+
+## SkillScrollDesc
+A scroll that teaches[N]
+a skill when used.[X]
+
+## MessageFatigueRestored
+Fatigue restored[X]
+
+## SS_FatigueText
+Ftg[X]
+
+## SS_FatigueRText
+This unit's level of fatigue.[X]
+
+## Dismount_Name_TextID
+ Dismount[X]
+
+## Dismount_Description_TextID
+Time to march?[X]
+
+## Mount_Name_TextID
+ Mount[X]
+
+## Mount_Description_TextID
+Ready to ride?[X]
+
+## OpenDoorName
+Open Door[X]
+
+##OpenDoorDesc
+Open the door to[N]
+Dragana's cell.[X]
+
+#include "statusdesc_text.txt"
+
+#include "skilldesc_text.txt"
+#include "custom_skilldesc.txt"
+
+#include "escapequotes.txt"
+
+#include "deathquotes.txt"
+
+#include "ChapterTextInstaller.txt"
+
+#include "CharClassItemsEtc/ItemNamesDescs_Free.txt"
+
+#include "CharClassItemsEtc/StaffText.txt"
+
+#include "CharClassItemsEtc/CharacterNamesDescs.txt"
+
+#include "CharClassItemsEtc/ClassNamesDescs.txt"
+
+## HealArrowText
+->[X]
+

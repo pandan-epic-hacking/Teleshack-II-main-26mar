@@ -1,0 +1,99 @@
+## CleoEscapeQuoteText
+[MidRight][LoadCleo]
+Finally, our path of escape is[N]
+clear. Follow my lead, everyone![A][X]
+
+## LoeweEscapeQuoteText
+[MidRight][LoadLoewe]
+Wish I could stay to wipe out the rest[N]
+of them, but the mission comes first.[A][X]
+
+## MiraEscapeQuoteText
+[MidRight][LoadMira]
+The others aren't out yet? They should[N]
+hurry, or our enemies may overcome us.[A][X]
+
+## IskraEscapeQuoteText
+[MidRight][LoadIskra]
+Looks like I've got an opening.[N]
+I'm going on ahead, Loewe![A][X]
+
+## EmilEscapeQuoteText
+[MidRight][LoadEmil]
+Phew, I kept my head after all.[N]
+Better hurry up now while I can![A][X]
+
+## SvetomirEscapeQuoteText
+[MidRight][LoadSvetomir]
+I escaped? Excellent! Watch out,[N]
+Cytheans, for Svetomir approaches![A][X]
+
+## AlenaEscapeQuoteText
+[MidRight][LoadAlena]
+Sorry, but I'm leaving first.[N]
+No sense in me staying behind.[A][X]
+
+## AlexEscapeQuoteText
+[MidRight][LoadCleo]
+Unit Escape.[X]
+
+## AxelEscapeQuoteText
+[MidRight][LoadCleo]
+Unit Escape.[X]
+
+## LongxiaEscapeQuoteText
+[MidRight][LoadLongxia]
+No sense in dying here.[X]
+
+## FangaiEscapeQuoteText
+[MidRight][LoadFangai]
+Uwa ha ha! My last meal[N]
+will not be tonight![A][X]
+
+## IberisEscapeQuoteText
+[MidRight][LoadFangai]
+Maybe... Should have...[N]
+brought lighter... armour.[A][X]
+
+## BuldakEscapeQuoteText
+[MidRight][LoadBuldak]
+Another day, another brush with[N]
+death. Only a matter of time.[A][X]
+
+## NoraEscapeQuoteText
+[MidRight][LoadNora]
+For Lord Radnitz's sake,[N]
+I must make my retreat![A][X]
+
+## HansEscapeQuoteText
+[MidRight][LoadHans]
+[Beat][A][X]
+
+## JennyEscapeQuoteText
+[MidRight][LoadJenny]
+No sense staying here.[N]
+Come on everyone![A][X]
+
+## MeldanEscapeQuoteText
+[MidRight][LoadMeldan]
+...Oh? We're leaving?[N]
+Well, ok then.[A][X]
+
+## NahizaEscapeQuoteText
+[MidRight][LoadNahiza]
+Wahaha! What a rush![AN]
+Just gotta finish with[N]
+dragging this here ballista,[AN]
+and I'll be home free![AN]
+[Beat]Whaddya mean,[N]
+[OpenQuote]just leave it behind"?[A][X]
+
+## AugurEscapeQuoteText
+[MidRight][LoadAugur]
+I foresee a path to safety.[N]
+Let us make it a reality[Beat][A][X]
+
+## RashidEscapeQuoteText
+[MidRight][LoadRashid]
+An opening[Beat][N]
+Fly, my friends. We must go![A][X]

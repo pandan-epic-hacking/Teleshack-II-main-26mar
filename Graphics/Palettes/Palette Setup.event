@@ -214,7 +214,7 @@
 
 // CorundumChampion
 	setPalette(53,CorundumChampion)
-	setCBSP(53,Corundum, 1, Chmapion)
+	setCBSP(53,Corundum, 1, Champion)
 
 // VeniaminForrest
 	setPalette(54,VeniaminForrest)
@@ -223,3 +223,15 @@
 // PascalThfFighter
 	setPalette(55,PascalThfFighter)
 	setCBSP(55,Pascal, 1, ThiefFighter)
+
+// RashidSniper
+	setPalette(56,RashidSniper)
+	setCBSP(56,Rashid, 1, Sniper)
+
+// HamdiHalberdier
+	setPalette(57,HamdiHalberdier)
+	setCBSP(57,Hamdi, 1, Halberdier)
+
+// ColossusWarrior
+	setPalette(58,ColossusWarrior)
+	setCBSP(58,Colossus, 1, Warrior)
